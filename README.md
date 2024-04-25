@@ -18,5 +18,5 @@ You can Upload files or just send yourself a message with some text or link.
 ## Backend
 - [ ] API Golang
 - [ ] Database: PostgreSQL
-- [ ] File storage: Minio
+- [ ] File storage: [Minio](https://min.io/)
 - [ ] Docker
